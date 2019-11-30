@@ -13,6 +13,12 @@ Dec 2017 - Dec 2019
 
 
 ---
+## Technical Skills
+- **Languages**: Python, R, C++, Java, SQL
+- **Frameworks**: Pytorch, PySpark, Keras, Fastai, Pandas, Numpy, Sklearn, Plotly, Matplotlib, SparkML, nltk, SpaCy
+- **Technologies**: Bash, Git, UNIX, Google Cloud, AWS, IBM Cloud
+- **Databases**: MySQL, SQLite, MongoDB, HDFS, Amazon Data lake, BigQuery, IBM object storage
+---
 ## Projects
 ### Unsupervised Machine Learning
 
