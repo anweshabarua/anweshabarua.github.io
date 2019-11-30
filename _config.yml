@@ -7,4 +7,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.kaggle.com/anshaj">Find me on Kaggle</a> 
   
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
