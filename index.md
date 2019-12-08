@@ -27,7 +27,7 @@ Dec 2017 - Dec 2019
 - [IBM - Applied Data Science Capstone](https://www.youracclaim.com/badges/25608eae-5bef-4381-84b1-d5c101d129c0/public_url)
 - [Google Cloud - Data Engineering on Google Cloud specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TT5RGYBZUGU2?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
 
-My complete list of certicatios can be found [here](./certifications.md)
+My complete list of certifications can be found [here](./certifications.md)
 
 ---
 
