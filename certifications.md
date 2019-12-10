@@ -6,4 +6,4 @@ I've obtained certifications from multiple sources
 
 
 ## Google Certifications
-- [Data Engineering, Big Data, and Machine Learning on GCP by Google Cloud (Dec 2018)](https://www.coursera.org/account/accomplishments/specialization/certificate/TT5RGYBZUGU2?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+- [Data Engineering, Big Data, and Machine Learning on GCP by Google Cloud, a 5 course specialization (Dec 2018)](https://www.coursera.org/account/accomplishments/specialization/certificate/TT5RGYBZUGU2?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
