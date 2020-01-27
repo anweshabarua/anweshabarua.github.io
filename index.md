@@ -1,6 +1,11 @@
 ## Work Experience 
+
+### Data Scientist at Tech9
+Dec 2019 - Current
+- Developed multi-class classification models for fintech companies
+ 
 #### Analytics Associate at Octathorpe
-Dec 2017 - Dec 2019
+Dec 2017 - Nov 2019
 - Developed tree-based machine learning models for user segmentation and classification that resulted in a 30% increase in the revenue across projects
 - Developed end to end machine learning solutions for revenue forecasting and risk assessment
 - Implemented new frameworks like firebase for better data collection, spark for processing bigger datasets
