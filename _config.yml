@@ -3,8 +3,9 @@ logo: "/images/logo1.png?raw=true"
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Experienced data science professional with a demonstrated history of making a postive difference with data.
     <br>
-  <a href="https://linkedin.com/in/anshaj-khare-62158688/">LinkedIn</a>
-  <a href="https://www.kaggle.com/anshaj">Kaggle</a><a href="https://dev.to/fulcrum3">Dev.to</a> 
+  <a href="https://linkedin.com/in/anshaj-khare-62158688/">LinkedIn</a><br>
+  <a href="https://www.kaggle.com/anshaj">Kaggle</a><br>
+  <a href="https://dev.to/fulcrum3">Dev.to</a> 
   
   
 theme: jekyll-theme-minimal
