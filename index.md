@@ -6,7 +6,7 @@ Dec 2019 - Current
 - Developed end to end machine learning services for client applications on AWS
 - Developed classification models for website classification systems 
 - Developed data pipelines on Airflow to orchestrated data infrasture
-- Designed databases for client services and repoorting systems using python based ORMs.
+- Designed databases for client services and reporting systems using python based ORMs.
  
 ### Programmer Analyst - Octathorpe
 Dec 2017 - Nov 2019
