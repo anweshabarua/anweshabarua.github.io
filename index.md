@@ -25,6 +25,7 @@ Dec 2017 - Nov 2019
 ## Projects (WIP)
 
 - [Finding similar Bengaluru localities with unsupervised learning](./projects/similar_bengaluru_neighbourhoods.md)
+
 ---
 ## Technical Skills
 - **Languages**: Python, R, C++, Java, SQL
