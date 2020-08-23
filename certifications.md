@@ -6,4 +6,11 @@ I've obtained certifications from multiple sources
 
 
 ## Google Certifications
-- [Data Engineering, Big Data, and Machine Learning on GCP by Google Cloud, a 5 course specialization (Dec 2018)](https://www.coursera.org/account/accomplishments/specialization/certificate/TT5RGYBZUGU2?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+- [Advanced Machine Learning with TensorFlow on Google Cloud Platform](./certifications/advanced-GCP.md)
+  - End-to-End Machine Learning with TensorFlow on GCP
+  - Production Machine Learning Systems
+  - Image Understanding with TensorFlow on GCP
+  - Sequence Models for Time Series and Natural Language Processing
+  - Recommendation Systems with TensorFlow on GCP
+- [Data Engineering, Big Data, and Machine Learning on GCP by Google Cloud, a 5 course specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TT5RGYBZUGU2?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
+  
