@@ -21,7 +21,7 @@ electrophoresis
 
 ---
 ## Publications
-- Barua A, Kesavan K, Jayanthi S. Molecular docking studies of plant compounds to identify efficient inhibitors for ovarian
+- **Barua A**, Kesavan K, Jayanthi S. Molecular docking studies of plant compounds to identify efficient inhibitors for ovarian
 cancer. Research Journal of Pharmacy and Technology. 2018; 11(9): 3811-3815. 
   
 ---
@@ -33,13 +33,5 @@ cancer. Research Journal of Pharmacy and Technology. 2018; 11(9): 3811-3815.
 - Merit Scholarship from Vellore Institute of Technology [Academic years: (2014-2015),(2015-2016),(2016-2017),(2017-2018)]
 - Felicitated by the Governor of West Bengal with 'Mamraj Agarwal Rashtriya Puruskar' for securing 98.2% in ICSE. (2012)
 
-
-- [Advanced Data Science with IBM (4 course specialization)](https://coursera.org/share/df6e3030dde2e5349de59125d3b12ac6)
-- [IBM - Applied Data Science Capstone](https://www.youracclaim.com/badges/25608eae-5bef-4381-84b1-d5c101d129c0/public_url)
-- [Google Cloud - Data Engineering on Google Cloud specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/TT5RGYBZUGU2?utm_medium=certificate&utm_source=link&utm_campaign=copybutton_certificate)
-
-[All certifications](./certifications.md)
-
 ---
-
 
