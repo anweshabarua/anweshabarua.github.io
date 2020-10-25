@@ -1,12 +1,8 @@
 ## Work Experience 
 
-### Data Scientist - Tech9
-Dec 2019 - Current
-- Trained supervised models for financial applications to automate manual classification processes
-- Developed end to end machine learning services for client applications on AWS
-- Developed classification models for website classification systems 
-- Developed data pipelines on Airflow to orchestrated data infrasture
-- Designed databases for client services and reporting systems using python based ORMs.
+### PhD scholar at Indian Institute of Science, Bangalore
+Aug 2018 - Current
+
  
 ### Programmer Analyst - Octathorpe
 Dec 2017 - Nov 2019
